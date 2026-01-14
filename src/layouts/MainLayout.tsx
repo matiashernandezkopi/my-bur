@@ -18,7 +18,7 @@ function MainLayout() {
 
           {/* NAV LINKS */}
           <div className="flex items-center gap-8">
-            <NavLink
+            {/*<NavLink
               to="/ingredients"
               className={({ isActive }) =>
                 `relative font-medium uppercase tracking-wide transition-all
@@ -30,7 +30,7 @@ function MainLayout() {
             >
               Ingredients
               <span className="absolute left-0 -bottom-1 h-0.5 w-full scale-x-0 bg-yellow-400 transition-transform origin-left group-hover:scale-x-100" />
-            </NavLink>
+            </NavLink>*/}
 
             <NavLink
               to="/burMaker/1-1"

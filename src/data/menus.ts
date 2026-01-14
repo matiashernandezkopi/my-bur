@@ -14,7 +14,7 @@ export const menus: Menu[] = [
     description: "Beef patty, cheddar cheese and fresh toppings.",
     ingredients: [1, 10, 4, 21, 31, 32],
     price: 6.60,
-    image: "/menus/classic.png",
+    image: "/menus/classic.webp",
   },
   {
     id: "bacon",
@@ -22,6 +22,6 @@ export const menus: Menu[] = [
     description: "Juicy beef, crispy bacon and melted cheese.",
     ingredients: [1, 10, 33, 21, 41, 34],
     price: 7.70,
-    image: "/menus/bacon.png",
+    image: "/menus/bacon.webp",
   },
 ];
